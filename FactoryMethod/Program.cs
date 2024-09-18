@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using FactoryMethod;
+
+Creator creator = new ConcreteCreatorA();
+creator.SomeOperation();
+
+creator = new ConcreteCreatorB();
+creator.SomeOperation();
+
+Console.ReadLine();
