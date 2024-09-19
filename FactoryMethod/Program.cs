@@ -6,4 +6,10 @@ creator.SomeOperation();
 creator = new ConcreteCreatorB();
 creator.SomeOperation();
 
+
+int? a = 2;
+int? b = null;
+
+Console.WriteLine(a);
+
 Console.ReadLine();
