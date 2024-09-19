@@ -3,7 +3,7 @@ Console.WriteLine("Original Car:");
 originalCar.ShowDetails();
 
 Car clonedCar = originalCar.Clone();
-clonedCar.Color = "Blue"; /
+clonedCar.Color = "Blue"; 
 Console.WriteLine("\nCloned Car:");
 clonedCar.ShowDetails();
 
