@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight", "Flyweight\Flyweight.csproj", "{ACA2D13F-9A7B-4737-9A3C-ED609726F992}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj", "{F2F18B39-F3A0-411E-9767-9E95A6F33B0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{ACA2D13F-9A7B-4737-9A3C-ED609726F992}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACA2D13F-9A7B-4737-9A3C-ED609726F992}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACA2D13F-9A7B-4737-9A3C-ED609726F992}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2F18B39-F3A0-411E-9767-9E95A6F33B0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2F18B39-F3A0-411E-9767-9E95A6F33B0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2F18B39-F3A0-411E-9767-9E95A6F33B0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2F18B39-F3A0-411E-9767-9E95A6F33B0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
